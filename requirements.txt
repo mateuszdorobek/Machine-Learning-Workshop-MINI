@@ -4,4 +4,4 @@ matplotlib>=3
 scikit-learn>=0.21
 seaborn>=0.9
 xgboost==0.82
-graphviz==2.38
+python-graphviz==0.10.1
