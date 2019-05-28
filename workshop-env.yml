@@ -11,3 +11,6 @@ dependencies:
 - seaborn=0.9
 - xgboost=0.82
 - graphviz=0.10.1
+- jupyter
+- nb_conda
+- nb_kernels
