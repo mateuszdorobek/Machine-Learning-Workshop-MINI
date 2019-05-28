@@ -1,0 +1,13 @@
+name: workshop-env
+channels:
+  - anaconda
+  - conda-forge
+  - pytorch
+dependencies:
+- numpy=1.16
+- pandas=0.24
+- matplotlib=3
+- scikit-learn=0.21
+- seaborn=0.9
+- xgboost=0.82
+- graphviz=0.10.1
