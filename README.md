@@ -5,15 +5,19 @@
 
 # Uruchomienie notebooka
 
-Jeżeli chcesz uruchomić notebook z warsztatów zdalnie kliknij w baner na górze, a jeżeli chcesz odpalić go lokalnie będziesz musiał zainstalować kilka rzeczy:
+Jeżeli chcesz uruchomić notebook z warsztatów zdalnie kliknij w baner na górze, a jeżeli chcesz odpalić go lokalnie będziesz musiał robić kilka rzeczy:
+## Fork
 
+Zforkuj moje repo:
+![Fork](https://github.com/SaxMan96/Machine-Learning-Workshop-MINI/blob/master/images/Fork.png?raw=true)
 ## Git
 
-Klikniej w [link](https://git-scm.com/downloads) i postępuj zgodnie z instukcją. Polecam zaznaczyć przy instalacji **Git Bash** i używać właśnie tej konsoli. Jeżelui już to zrobicie to sclonujcie te repozytorium:
+Klikniej w [link](https://git-scm.com/downloads) i postępuj zgodnie z instukcją. Polecam zaznaczyć przy instalacji **Git Bash** i używać właśnie tej konsoli. Jeżeli już to zrobicie to sclonujcie zforkowane repozytorium:
 
 ```
-git clone https://github.com/SaxMan96/Machine-Learning-Workshop-MINI.git
+git clone https://github.com/YOUR_GITHUB_USERNAME/Machine-Learning-Workshop-MINI.git
 ```
+YOUR_GITHUB_USERNAME - to twoja nazwa na GutHubie - ponieważ sforkowane repo jest na twoim kocie.
 
 ## Conda
 
